@@ -2,7 +2,7 @@
 
 Weather forecasting app citywise....used openweathermap api to get the data..!!
 
-Clone the project then in that folder then
+Clone the project then in that folder
 Write these cmds in the terminal
 
       npm install connect
